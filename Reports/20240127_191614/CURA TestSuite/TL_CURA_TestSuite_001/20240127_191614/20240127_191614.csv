@@ -1,0 +1,14 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TL_CURA_TestSuite_001,Chrome 120.0.0.0,,,27-01-2024 19:16:18,27-01-2024 19:23:51,7m - 32.539s,PASSED
+,,,,,,,
+Test Cases/Test Listener-1/TC_AppointmentConfirmation_001,Chrome 120.0.0.0,,,27-01-2024 19:16:55,27-01-2024 19:23:51,6m - 56.029s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 120.0.0.0,,,27-01-2024 19:16:55,27-01-2024 19:18:57,2m - 2.330s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/TL_Appointment Confirmation_OR/Page_CURA Healthcare Service/select_Tokyo CURA Healthcare Center        _5b4107""), ""Hongkong CURA Healthcare Center"", true)",Chrome 120.0.0.0,,,27-01-2024 19:18:57,27-01-2024 19:20:28,1m - 30.324s,PASSED
+"click(findTestObject(""Object Repository/TL_Appointment Confirmation_OR/Page_CURA Healthcare Service/input_programs""))",Chrome 120.0.0.0,,,27-01-2024 19:20:28,27-01-2024 19:20:58,30.094s,PASSED
+"click(findTestObject(""Object Repository/TL_Appointment Confirmation_OR/Page_CURA Healthcare Service/input_visit_date""))",Chrome 120.0.0.0,,,27-01-2024 19:20:58,27-01-2024 19:21:28,30.153s,PASSED
+"click(findTestObject(""Object Repository/TL_Appointment Confirmation_OR/Page_CURA Healthcare Service/td_1""))",Chrome 120.0.0.0,,,27-01-2024 19:21:28,27-01-2024 19:21:58,30.131s,PASSED
+"setText(findTestObject(""Object Repository/TL_Appointment Confirmation_OR/Page_CURA Healthcare Service/textarea_comment""), ""Test Listner"")",Chrome 120.0.0.0,,,27-01-2024 19:21:58,27-01-2024 19:22:58,1m - 0.206s,PASSED
+"click(findTestObject(""Object Repository/TL_Appointment Confirmation_OR/Page_CURA Healthcare Service/button_Book Appointment""))",Chrome 120.0.0.0,,,27-01-2024 19:22:58,27-01-2024 19:23:30,31.690s,PASSED
+"click(findTestObject(""Object Repository/TL_Appointment Confirmation_OR/Page_CURA Healthcare Service/i_fa fa-bars""))",Chrome 120.0.0.0,,,27-01-2024 19:23:30,27-01-2024 19:23:30,0.472s,PASSED
+"click(findTestObject(""Object Repository/TL_Appointment Confirmation_OR/Page_CURA Healthcare Service/a_Logout""))",Chrome 120.0.0.0,,,27-01-2024 19:23:30,27-01-2024 19:23:33,2.200s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 120.0.0.0,,,27-01-2024 19:23:33,27-01-2024 19:23:51,18.326s,FAILED

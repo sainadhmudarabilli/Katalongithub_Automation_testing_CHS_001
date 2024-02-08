@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Manual_DropDown_Validation</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>46c2b4ef-a8fd-47cc-a63e-209e808f7319</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>50f52a3f-86dc-4150-8841-f17554dfe9f5</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Seoul CURA Healthcare Center'</defaultValue>
+      <description></description>
+      <id>50f52a3f-86dc-4150-8841-f17554dfe9f5</id>
+      <masked>false</masked>
+      <name>facilityElement</name>
+   </variable>
+</TestCaseEntity>

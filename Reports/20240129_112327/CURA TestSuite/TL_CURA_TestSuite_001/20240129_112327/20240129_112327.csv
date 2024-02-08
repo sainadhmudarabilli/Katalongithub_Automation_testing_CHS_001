@@ -1,0 +1,12 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TL_CURA_TestSuite_001,Firefox 122.0,,,29-01-2024 11:23:31,29-01-2024 11:31:51,8m - 20.000s,PASSED
+,,,,,,,
+Test Cases/Test Listener-1/TC_AppointmentConfirmation_001,Firefox 122.0,,,29-01-2024 11:24:10,29-01-2024 11:31:51,7m - 41.170s,PASSED
+Start listener action : sampleBeforeTestCase,Firefox 122.0,,,29-01-2024 11:24:10,29-01-2024 11:26:13,2m - 2.260s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/TL_Appointment Confirmation_OR/Page_CURA Healthcare Service/select_Tokyo CURA Healthcare Center        _5b4107""), ""Hongkong CURA Healthcare Center"", true)",Firefox 122.0,,,29-01-2024 11:26:13,29-01-2024 11:27:43,1m - 30.523s,PASSED
+"click(findTestObject(""Object Repository/TL_Appointment Confirmation_OR/Page_CURA Healthcare Service/input_programs""))",Firefox 122.0,,,29-01-2024 11:27:43,29-01-2024 11:28:13,30.294s,PASSED
+"click(findTestObject(""Object Repository/TL_Appointment Confirmation_OR/Page_CURA Healthcare Service/input_visit_date""))",Firefox 122.0,,,29-01-2024 11:28:13,29-01-2024 11:28:44,30.349s,PASSED
+"click(findTestObject(""Object Repository/TL_Appointment Confirmation_OR/Page_CURA Healthcare Service/td_1""))",Firefox 122.0,,,29-01-2024 11:28:44,29-01-2024 11:29:14,30.317s,PASSED
+"setText(findTestObject(""Object Repository/TL_Appointment Confirmation_OR/Page_CURA Healthcare Service/textarea_comment""), ""Test Listner"")",Firefox 122.0,,,29-01-2024 11:29:14,29-01-2024 11:30:14,1m - 0.129s,PASSED
+"click(findTestObject(""Object Repository/TL_Appointment Confirmation_OR/Page_CURA Healthcare Service/button_Book Appointment""))",Firefox 122.0,,,29-01-2024 11:30:14,29-01-2024 11:30:49,34.976s,PASSED
+Start listener action : sampleAfterTestCase,Firefox 122.0,,,29-01-2024 11:30:49,29-01-2024 11:31:51,1m - 2.207s,PASSED

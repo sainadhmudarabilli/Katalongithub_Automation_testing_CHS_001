@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_CHS_Login_local</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>220ea96c-580d-432f-8b94-45cef893d6d7</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>2838c89e-e4d8-4253-912c-efabd3d207f0</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>565ce1e6-bf61-4ac7-8fc1-fafb093143af</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Seoul CURA Healthcare Center'</defaultValue>
+      <description></description>
+      <id>2838c89e-e4d8-4253-912c-efabd3d207f0</id>
+      <masked>false</masked>
+      <name>facility</name>
+   </variable>
+   <variable>
+      <defaultValue>'Hello'</defaultValue>
+      <description></description>
+      <id>565ce1e6-bf61-4ac7-8fc1-fafb093143af</id>
+      <masked>false</masked>
+      <name>comment</name>
+   </variable>
+</TestCaseEntity>

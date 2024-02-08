@@ -1,0 +1,13 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TL_CURA_TestSuite_001,Chrome 120.0.0.0,,,27-01-2024 22:29:13,27-01-2024 22:34:24,5m - 10.697s,ERROR
+,,,,,,,
+Test Cases/Test Listener-1/TC_AppointmentConfirmation_001,Chrome 120.0.0.0,,,27-01-2024 22:29:53,27-01-2024 22:34:23,4m - 30.696s,ERROR
+Start listener action : sampleBeforeTestCase,Chrome 120.0.0.0,,,27-01-2024 22:29:53,27-01-2024 22:31:56,2m - 3.170s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/TL_Appointment Confirmation_OR/Page_CURA Healthcare Service/select_Tokyo CURA Healthcare Center        _5b4107""), ""Hongkong CURA Healthcare Center"", true)",Chrome 120.0.0.0,,,27-01-2024 22:31:56,27-01-2024 22:33:27,1m - 30.615s,PASSED
+"com.qa.test.customFunctions.CheckDropDownListElementExist(findTestObject(""TL_Appointment Confirmation_OR/Page_CURA Healthcare Service/select_Tokyo CURA Healthcare Center        _5b4107""), ""Tokyo CURA Healthcare Center"")",Chrome 120.0.0.0,,,27-01-2024 22:33:27,27-01-2024 22:33:27,0.129s,ERROR
+Start listener action : sampleAfterTestCase,Chrome 120.0.0.0,,,27-01-2024 22:33:27,27-01-2024 22:34:23,56.553s,ERROR
+,,,,,,,
+Test Cases/Test Listener-1/TC_AppointmentConfirmation_001,Chrome 120.0.0.0,,,27-01-2024 22:34:23,27-01-2024 22:34:24,0.322s,FAILED
+Start listener action : sampleBeforeTestCase,Chrome 120.0.0.0,,,27-01-2024 22:34:23,27-01-2024 22:34:24,0.106s,ERROR
+"selectOptionByValue(findTestObject(""Object Repository/TL_Appointment Confirmation_OR/Page_CURA Healthcare Service/select_Tokyo CURA Healthcare Center        _5b4107""), ""Hongkong CURA Healthcare Center"", true)",Chrome 120.0.0.0,,,27-01-2024 22:34:24,27-01-2024 22:34:24,0.080s,FAILED
+Start listener action : sampleAfterTestCase,Chrome 120.0.0.0,,,27-01-2024 22:34:24,27-01-2024 22:34:24,0.102s,ERROR

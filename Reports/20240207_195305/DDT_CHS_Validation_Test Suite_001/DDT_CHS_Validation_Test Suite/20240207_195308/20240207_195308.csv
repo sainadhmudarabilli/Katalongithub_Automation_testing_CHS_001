@@ -1,0 +1,35 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+DDT_CHS_Validation_Test Suite,Firefox 122.0,,,07-02-2024 19:53:17,07-02-2024 20:02:53,9m - 35.424s,PASSED
+,,,,,,,
+Test Cases/Data Driven Testing/DDT_CHS_Validation_Login_Excel,Firefox 122.0,,,07-02-2024 19:53:18,07-02-2024 19:56:32,3m - 13.968s,PASSED
+Start listener action : sampleBeforeTestCase,Firefox 122.0,,,07-02-2024 19:53:18,07-02-2024 19:53:19,0.601s,ERROR
+"openBrowser("""")",Firefox 122.0,,,07-02-2024 19:53:19,07-02-2024 19:53:24,4.977s,PASSED
+"navigateToUrl(""https://katalon-demo-cura.herokuapp.com/"")",Firefox 122.0,,,07-02-2024 19:53:24,07-02-2024 19:53:27,3.252s,PASSED
+"click(findTestObject(""Object Repository/DDT_CHS_Login_Validation_OR/Page_CURA Healthcare Service/a_Make Appointment""))",Firefox 122.0,,,07-02-2024 19:53:27,07-02-2024 19:53:59,31.909s,PASSED
+"setText(findTestObject(""Object Repository/DDT_CHS_Login_Validation_OR/Page_CURA Healthcare Service/input_username""), username)",Firefox 122.0,,,07-02-2024 19:53:59,07-02-2024 19:54:59,1m - 0.231s,PASSED
+"setText(findTestObject(""Object Repository/DDT_CHS_Login_Validation_OR/Page_CURA Healthcare Service/input_password""), password)",Firefox 122.0,,,07-02-2024 19:54:59,07-02-2024 19:55:59,1m - 0.122s,PASSED
+"click(findTestObject(""Object Repository/DDT_CHS_Login_Validation_OR/Page_CURA Healthcare Service/button_Login""))",Firefox 122.0,,,07-02-2024 19:55:59,07-02-2024 19:56:32,32.195s,PASSED
+closeBrowser(),Firefox 122.0,,,07-02-2024 19:56:32,07-02-2024 19:56:32,0.399s,PASSED
+Start listener action : sampleAfterTestCase,Firefox 122.0,,,07-02-2024 19:56:32,07-02-2024 19:56:32,0.099s,ERROR
+,,,,,,,
+Test Cases/Data Driven Testing/DDT_CHS_Validation_Login_Excel,Firefox 122.0,,,07-02-2024 19:56:32,07-02-2024 19:59:43,3m - 10.903s,PASSED
+Start listener action : sampleBeforeTestCase,Firefox 122.0,,,07-02-2024 19:56:32,07-02-2024 19:56:32,0.071s,ERROR
+"openBrowser("""")",Firefox 122.0,,,07-02-2024 19:56:32,07-02-2024 19:56:35,2.937s,PASSED
+"navigateToUrl(""https://katalon-demo-cura.herokuapp.com/"")",Firefox 122.0,,,07-02-2024 19:56:35,07-02-2024 19:56:38,3.191s,PASSED
+"click(findTestObject(""Object Repository/DDT_CHS_Login_Validation_OR/Page_CURA Healthcare Service/a_Make Appointment""))",Firefox 122.0,,,07-02-2024 19:56:38,07-02-2024 19:57:10,31.332s,PASSED
+"setText(findTestObject(""Object Repository/DDT_CHS_Login_Validation_OR/Page_CURA Healthcare Service/input_username""), username)",Firefox 122.0,,,07-02-2024 19:57:10,07-02-2024 19:58:10,1m - 0.632s,PASSED
+"setText(findTestObject(""Object Repository/DDT_CHS_Login_Validation_OR/Page_CURA Healthcare Service/input_password""), password)",Firefox 122.0,,,07-02-2024 19:58:10,07-02-2024 19:59:11,1m - 0.231s,PASSED
+"click(findTestObject(""Object Repository/DDT_CHS_Login_Validation_OR/Page_CURA Healthcare Service/button_Login""))",Firefox 122.0,,,07-02-2024 19:59:11,07-02-2024 19:59:43,32.045s,PASSED
+closeBrowser(),Firefox 122.0,,,07-02-2024 19:59:43,07-02-2024 19:59:43,0.382s,PASSED
+Start listener action : sampleAfterTestCase,Firefox 122.0,,,07-02-2024 19:59:43,07-02-2024 19:59:43,0.052s,ERROR
+,,,,,,,
+Test Cases/Data Driven Testing/DDT_CHS_Validation_Login_Excel,Firefox 122.0,,,07-02-2024 19:59:43,07-02-2024 20:02:53,3m - 9.804s,PASSED
+Start listener action : sampleBeforeTestCase,Firefox 122.0,,,07-02-2024 19:59:43,07-02-2024 19:59:43,0.035s,ERROR
+"openBrowser("""")",Firefox 122.0,,,07-02-2024 19:59:43,07-02-2024 19:59:46,2.815s,PASSED
+"navigateToUrl(""https://katalon-demo-cura.herokuapp.com/"")",Firefox 122.0,,,07-02-2024 19:59:46,07-02-2024 19:59:49,3.146s,PASSED
+"click(findTestObject(""Object Repository/DDT_CHS_Login_Validation_OR/Page_CURA Healthcare Service/a_Make Appointment""))",Firefox 122.0,,,07-02-2024 19:59:49,07-02-2024 20:00:21,31.430s,PASSED
+"setText(findTestObject(""Object Repository/DDT_CHS_Login_Validation_OR/Page_CURA Healthcare Service/input_username""), username)",Firefox 122.0,,,07-02-2024 20:00:21,07-02-2024 20:01:21,1m - 0.232s,PASSED
+"setText(findTestObject(""Object Repository/DDT_CHS_Login_Validation_OR/Page_CURA Healthcare Service/input_password""), password)",Firefox 122.0,,,07-02-2024 20:01:21,07-02-2024 20:02:21,1m - 0.172s,PASSED
+"click(findTestObject(""Object Repository/DDT_CHS_Login_Validation_OR/Page_CURA Healthcare Service/button_Login""))",Firefox 122.0,,,07-02-2024 20:02:21,07-02-2024 20:02:52,31.496s,PASSED
+closeBrowser(),Firefox 122.0,,,07-02-2024 20:02:52,07-02-2024 20:02:53,0.391s,PASSED
+Start listener action : sampleAfterTestCase,Firefox 122.0,,,07-02-2024 20:02:53,07-02-2024 20:02:53,0.067s,ERROR

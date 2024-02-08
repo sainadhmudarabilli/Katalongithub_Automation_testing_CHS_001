@@ -1,0 +1,32 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+DDT_CHS_Login_TestSuite,Chrome 120.0.0.0,,,25-01-2024 16:45:39,25-01-2024 16:47:10,1m - 30.267s,FAILED
+,,,,,,,
+Test Cases/Data Driven Testing/TC_Validataion_CHS_Login_Excel Data,Chrome 120.0.0.0,,,25-01-2024 16:46:35,25-01-2024 16:46:38,2.795s,FAILED
+"openBrowser("""")",Chrome 120.0.0.0,,,25-01-2024 16:46:35,25-01-2024 16:46:36,0.882s,PASSED
+"navigateToUrl(""https://katalon-demo-cura.herokuapp.com/"")",Chrome 120.0.0.0,,,25-01-2024 16:46:36,25-01-2024 16:46:38,1.414s,PASSED
+"click(findTestObject(""CHS_DDT_Validation_login_OR/Page_CURA Healthcare Service/a_CURA Healthcare_menu-toggle""))",Chrome 120.0.0.0,,,25-01-2024 16:46:38,25-01-2024 16:46:38,0.112s,FAILED
+"click(findTestObject(""CHS_DDT_Validation_login_OR/Page_CURA Healthcare Service/a_Login""))",Chrome 120.0.0.0,,,25-01-2024 16:46:38,25-01-2024 16:46:38,0.092s,FAILED
+"setText(findTestObject(""CHS_DDT_Validation_login_OR/Page_CURA Healthcare Service/input_Username_username""), username)",Chrome 120.0.0.0,,,25-01-2024 16:46:38,25-01-2024 16:46:38,0.062s,FAILED
+"setEncryptedText(findTestObject(""CHS_DDT_Validation_login_OR/Page_CURA Healthcare Service/input_Password_password""), password)",Chrome 120.0.0.0,,,25-01-2024 16:46:38,25-01-2024 16:46:38,0.043s,FAILED
+"click(findTestObject(""CHS_DDT_Validation_login_OR/Page_CURA Healthcare Service/button_Login""))",Chrome 120.0.0.0,,,25-01-2024 16:46:38,25-01-2024 16:46:38,0.073s,FAILED
+closeBrowser(),Chrome 120.0.0.0,,,25-01-2024 16:46:38,25-01-2024 16:46:38,0.077s,PASSED
+,,,,,,,
+Test Cases/Data Driven Testing/TC_Validataion_CHS_Login_Excel Data,Chrome 120.0.0.0,,,25-01-2024 16:46:47,25-01-2024 16:46:50,2.944s,FAILED
+"openBrowser("""")",Chrome 120.0.0.0,,,25-01-2024 16:46:47,25-01-2024 16:46:48,0.912s,PASSED
+"navigateToUrl(""https://katalon-demo-cura.herokuapp.com/"")",Chrome 120.0.0.0,,,25-01-2024 16:46:48,25-01-2024 16:46:50,1.532s,PASSED
+"click(findTestObject(""CHS_DDT_Validation_login_OR/Page_CURA Healthcare Service/a_CURA Healthcare_menu-toggle""))",Chrome 120.0.0.0,,,25-01-2024 16:46:50,25-01-2024 16:46:50,0.131s,FAILED
+"click(findTestObject(""CHS_DDT_Validation_login_OR/Page_CURA Healthcare Service/a_Login""))",Chrome 120.0.0.0,,,25-01-2024 16:46:50,25-01-2024 16:46:50,0.095s,FAILED
+"setText(findTestObject(""CHS_DDT_Validation_login_OR/Page_CURA Healthcare Service/input_Username_username""), username)",Chrome 120.0.0.0,,,25-01-2024 16:46:50,25-01-2024 16:46:50,0.064s,FAILED
+"setEncryptedText(findTestObject(""CHS_DDT_Validation_login_OR/Page_CURA Healthcare Service/input_Password_password""), password)",Chrome 120.0.0.0,,,25-01-2024 16:46:50,25-01-2024 16:46:50,0.043s,FAILED
+"click(findTestObject(""CHS_DDT_Validation_login_OR/Page_CURA Healthcare Service/button_Login""))",Chrome 120.0.0.0,,,25-01-2024 16:46:50,25-01-2024 16:46:50,0.074s,FAILED
+closeBrowser(),Chrome 120.0.0.0,,,25-01-2024 16:46:50,25-01-2024 16:46:50,0.058s,PASSED
+,,,,,,,
+Test Cases/Data Driven Testing/TC_Validataion_CHS_Login_Excel Data,Chrome 120.0.0.0,,,25-01-2024 16:46:57,25-01-2024 16:47:10,12.310s,FAILED
+"openBrowser("""")",Chrome 120.0.0.0,,,25-01-2024 16:46:57,25-01-2024 16:46:58,0.910s,PASSED
+"navigateToUrl(""https://katalon-demo-cura.herokuapp.com/"")",Chrome 120.0.0.0,,,25-01-2024 16:46:58,25-01-2024 16:47:04,5.690s,PASSED
+"click(findTestObject(""CHS_DDT_Validation_login_OR/Page_CURA Healthcare Service/a_CURA Healthcare_menu-toggle""))",Chrome 120.0.0.0,,,25-01-2024 16:47:04,25-01-2024 16:47:04,0.505s,PASSED
+"click(findTestObject(""CHS_DDT_Validation_login_OR/Page_CURA Healthcare Service/a_Login""))",Chrome 120.0.0.0,,,25-01-2024 16:47:04,25-01-2024 16:47:07,2.550s,PASSED
+"setText(findTestObject(""CHS_DDT_Validation_login_OR/Page_CURA Healthcare Service/input_Username_username""), username)",Chrome 120.0.0.0,,,25-01-2024 16:47:07,25-01-2024 16:47:09,2.399s,FAILED
+"setEncryptedText(findTestObject(""CHS_DDT_Validation_login_OR/Page_CURA Healthcare Service/input_Password_password""), password)",Chrome 120.0.0.0,,,25-01-2024 16:47:09,25-01-2024 16:47:09,0.061s,FAILED
+"click(findTestObject(""CHS_DDT_Validation_login_OR/Page_CURA Healthcare Service/button_Login""))",Chrome 120.0.0.0,,,25-01-2024 16:47:09,25-01-2024 16:47:10,0.072s,FAILED
+closeBrowser(),Chrome 120.0.0.0,,,25-01-2024 16:47:10,25-01-2024 16:47:10,0.087s,PASSED

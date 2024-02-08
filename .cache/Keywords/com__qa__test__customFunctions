@@ -1,0 +1,42 @@
+{
+  "keywordFileContentHash": "89BBD83639656F56277F398EFDB8ADE9",
+  "keywordClasses": [
+    {
+      "name": "com.qa.test.customFunctions",
+      "keywordMethods": [
+        {
+          "name": "CheckDropDownListElementExist",
+          "parameters": [
+            {
+              "name": "object",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "com.kms.katalon.core.testobject.TestObject",
+                "unresolvedClassName": "TestObject",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            },
+            {
+              "name": "option",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "javadocParsed": false
+}

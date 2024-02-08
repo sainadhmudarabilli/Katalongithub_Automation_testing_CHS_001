@@ -1,0 +1,8 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TL_CURA_TestSuite_001,Firefox 122.0,,,27-01-2024 22:34:57,27-01-2024 22:40:16,5m - 19.184s,ERROR
+,,,,,,,
+Test Cases/Test Listener-1/TC_AppointmentConfirmation_001,Firefox 122.0,,,27-01-2024 22:35:39,27-01-2024 22:40:16,4m - 36.502s,ERROR
+Start listener action : sampleBeforeTestCase,Firefox 122.0,,,27-01-2024 22:35:40,27-01-2024 22:37:42,2m - 2.808s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/TL_Appointment Confirmation_OR/Page_CURA Healthcare Service/select_Tokyo CURA Healthcare Center        _5b4107""), ""Hongkong CURA Healthcare Center"", true)",Firefox 122.0,,,27-01-2024 22:37:43,27-01-2024 22:39:13,1m - 30.618s,PASSED
+"com.qa.test.customFunctions.CheckDropDownListElementExist(findTestObject(""TL_Appointment Confirmation_OR/Page_CURA Healthcare Service/select_Tokyo CURA Healthcare Center        _5b4107""), ""Tokyo CURA Healthcare Center"")",Firefox 122.0,,,27-01-2024 22:39:13,27-01-2024 22:39:13,0.133s,ERROR
+Start listener action : sampleAfterTestCase,Firefox 122.0,,,27-01-2024 22:39:13,27-01-2024 22:40:16,1m - 2.617s,PASSED

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>Regression Cycle-1</name>
+   <tag></tag>
+   <defaultProfile>false</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Hongkong CURA Healthcare Center'</initValue>
+      <name>facility</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>' Added'</initValue>
+      <name>commnet</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>
